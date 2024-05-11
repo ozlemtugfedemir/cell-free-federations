@@ -3,7 +3,7 @@ Energy Reduction Cell-Free Massive MIMO through Fine-Grained Resource Management
 
 This code package contains a simulation environment, based on Python, that reproduces some of the numerical results in the article
 
-Özlem Tuğfe Demir, Lianet Méndez-Monsanto, Nicola Bastianello, Emma Fitzgerald, and Gilles Callebaut, "Energy Reduction Cell-Free Massive MIMO through Fine-Grained Resource Management", EUCNC 2024.
+Özlem Tuğfe Demir, Lianet Méndez-Monsanto, Nicola Bastianello, Emma Fitzgerald, and Gilles Callebaut, "Energy Reduction Cell-Free Massive MIMO through Fine-Grained Resource Management",  EuCNC/6G Summit 2024.
 
 ## Abstract of Article
 
