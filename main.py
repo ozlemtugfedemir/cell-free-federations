@@ -9,7 +9,6 @@ import scipy.linalg as sl
 import time
 import cvxpy as cvx
 import copy
-from k_means_constrained import KMeansConstrained
 
 # using loadtxt()
 betasdB0 = np.loadtxt("pathloss_factory_30CSPs.csv",
